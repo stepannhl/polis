@@ -20,9 +20,6 @@ public class TestClassYoutube {
     public void userLogin(){
 
         WebElement search = driver.findElement(By.name("st.email"));
-
-
-
     }
 
     @AfterClass
