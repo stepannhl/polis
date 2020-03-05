@@ -23,7 +23,7 @@ public class TestClassYoutube {
 
         search = driver.findElement(By.name("st.password"));
 
-        ;
+        
 
     }
 
