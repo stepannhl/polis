@@ -21,9 +21,7 @@ public class TestClassYoutube {
 
         WebElement search = driver.findElement(By.name("st.email"));
 
-        search = driver.findElement(By.name("st.password"));
 
-        
 
     }
 
