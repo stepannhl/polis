@@ -23,7 +23,6 @@ public class TestClassYoutube {
 
     @AfterClass
     public static void tearDown(){
-        driver.get("https://ok.ru/messages/576606610465");
 
     }
 
