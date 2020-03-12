@@ -18,8 +18,10 @@ public class TestClassYoutube {
     }
     @Test
     public void userLogin(){
+        assert (true == true);
 
     }
+
 
     @AfterClass
     public static void tearDown(){
